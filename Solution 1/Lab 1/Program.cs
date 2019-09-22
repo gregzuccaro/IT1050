@@ -6,7 +6,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            //DECLARING VARIABLES  
+            //Declaring Variables  
             string firstName;
             string middleInitial;
             string lastName;
