@@ -1,0 +1,11 @@
+C:\Users\gregz\Desktop\IT1050\Practice Exercises\Practice\bin\Debug\netcoreapp2.1\Practice.deps.json
+C:\Users\gregz\Desktop\IT1050\Practice Exercises\Practice\bin\Debug\netcoreapp2.1\Practice.runtimeconfig.json
+C:\Users\gregz\Desktop\IT1050\Practice Exercises\Practice\bin\Debug\netcoreapp2.1\Practice.runtimeconfig.dev.json
+C:\Users\gregz\Desktop\IT1050\Practice Exercises\Practice\bin\Debug\netcoreapp2.1\Practice.dll
+C:\Users\gregz\Desktop\IT1050\Practice Exercises\Practice\bin\Debug\netcoreapp2.1\Practice.pdb
+C:\Users\gregz\Desktop\IT1050\Practice Exercises\Practice\obj\Debug\netcoreapp2.1\Practice.csprojAssemblyReference.cache
+C:\Users\gregz\Desktop\IT1050\Practice Exercises\Practice\obj\Debug\netcoreapp2.1\Practice.csproj.CoreCompileInputs.cache
+C:\Users\gregz\Desktop\IT1050\Practice Exercises\Practice\obj\Debug\netcoreapp2.1\Practice.AssemblyInfoInputs.cache
+C:\Users\gregz\Desktop\IT1050\Practice Exercises\Practice\obj\Debug\netcoreapp2.1\Practice.AssemblyInfo.cs
+C:\Users\gregz\Desktop\IT1050\Practice Exercises\Practice\obj\Debug\netcoreapp2.1\Practice.dll
+C:\Users\gregz\Desktop\IT1050\Practice Exercises\Practice\obj\Debug\netcoreapp2.1\Practice.pdb
