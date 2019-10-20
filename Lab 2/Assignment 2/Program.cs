@@ -16,6 +16,12 @@ namespace Assignment_2
             p2.GatherDataFromUser();
             p2.CreateSpouseIfMarried();
             p2.PrintNameAndAge();
+
+            System.Console.WriteLine("Average Age: " + Person.GetAverageAge());
+            System.Console.ReadKey();
+
+
+
         }
     }
 }

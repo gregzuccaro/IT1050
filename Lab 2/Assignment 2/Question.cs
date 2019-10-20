@@ -11,6 +11,7 @@ namespace Assignment_2
 
         public static int AskForInteger(string prompt)
         {
+
             return int.Parse(AskForString(prompt));
         }
 

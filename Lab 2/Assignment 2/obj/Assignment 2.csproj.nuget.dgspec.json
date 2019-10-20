@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MCTM_OH_3\\OneDrive - mycitytransportation.com\\Notebooks\\Desktop\\Lab 2\\Assignment 2\\Assignment 2.csproj": {}
+    "C:\\Users\\gregz\\Desktop\\IT1050\\Lab 2\\Assignment 2\\Assignment 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MCTM_OH_3\\OneDrive - mycitytransportation.com\\Notebooks\\Desktop\\Lab 2\\Assignment 2\\Assignment 2.csproj": {
+    "C:\\Users\\gregz\\Desktop\\IT1050\\Lab 2\\Assignment 2\\Assignment 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MCTM_OH_3\\OneDrive - mycitytransportation.com\\Notebooks\\Desktop\\Lab 2\\Assignment 2\\Assignment 2.csproj",
+        "projectUniqueName": "C:\\Users\\gregz\\Desktop\\IT1050\\Lab 2\\Assignment 2\\Assignment 2.csproj",
         "projectName": "Assignment 2",
-        "projectPath": "C:\\Users\\MCTM_OH_3\\OneDrive - mycitytransportation.com\\Notebooks\\Desktop\\Lab 2\\Assignment 2\\Assignment 2.csproj",
-        "packagesPath": "C:\\Users\\MCTM_OH_3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MCTM_OH_3\\OneDrive - mycitytransportation.com\\Notebooks\\Desktop\\Lab 2\\Assignment 2\\obj\\",
+        "projectPath": "C:\\Users\\gregz\\Desktop\\IT1050\\Lab 2\\Assignment 2\\Assignment 2.csproj",
+        "packagesPath": "C:\\Users\\gregz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gregz\\Desktop\\IT1050\\Lab 2\\Assignment 2\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\MCTM_OH_3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gregz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,21 +41,10 @@
       "frameworks": {
         "netcoreapp3.0": {
           "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
+            "net461"
           ],
           "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "warn": true
         }
       }
     }
