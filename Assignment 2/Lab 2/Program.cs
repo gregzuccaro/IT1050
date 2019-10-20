@@ -13,6 +13,7 @@ namespace Lab_2
             p1.FirstName = Console.ReadLine();
             Console.WriteLine("Enter your last name. ");
             p1.LastName = Console.ReadLine();
+
             Console.WriteLine("Enter your age. ");
             p1.age = int.Parse(Console.ReadLine());
             Console.WriteLine("Enter your spouse's first name. ");
@@ -29,9 +30,9 @@ namespace Lab_2
             p2.age = int.Parse(Console.ReadLine());
             Console.WriteLine("Enter your spouse's first name. ");
             p2.Spouse.FirstName = Console.ReadLine();
-          
 
-
+            p1.PrintNameAndAge();
+            p2.PrintNameAndAge();
 
         }
     }
