@@ -9,15 +9,16 @@
             griggie.LastName = "Zuccaro";
             griggie.Age = 29;
 
-            int sum1 = griggie.AddTwoIntegers(9, 2);
-            int sum2 = griggie.AddTwoIntegers(5, 9);
-            int sum3 = griggie.AddTwoIntegers(7, 7);
+            Person sissie = new Person();
+            sissie.FirstName = "Patricia";
+            sissie.LastName = "Zuccaro";
+            sissie.Age = 27;
 
 
-
-           System.Console.WriteLine("The Name of griggie is: " + griggie.GetFullName());
-            System.Console.WriteLine("The result of the integers that griggie added together is: " + sum1 + " " + sum2 + " " +  sum3);
+            griggie.Speak("I am the smartest person in the world.");
+            sissie.Speak("No that is not true.");
             System.Console.ReadKey();
+
 
 
         }

@@ -11,13 +11,19 @@
             return this.FirstName + " " + this.LastName;
         }
 
-        public int AddTwoIntegers(int theFirstNumber, int theSecondNumber)
+     public void Speak(string whatToSay)
         {
-            return theFirstNumber + theSecondNumber;
+            string output = this.FirstName;
+            output += " ";
+            output += this.LastName;
+            output += " says, '";
+            output += whatToSay;
+            output += " ' ";
+
+            System.Console.WriteLine(output);
+
 
         }
-
-
 
 
     }
