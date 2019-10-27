@@ -1,0 +1,7 @@
+C:\Users\gregz\Desktop\IT1050\Practice 2\Practice 2\obj\Debug\Practice 2.csprojAssemblyReference.cache
+C:\Users\gregz\Desktop\IT1050\Practice 2\Practice 2\obj\Debug\Practice 2.csproj.CoreCompileInputs.cache
+C:\Users\gregz\Desktop\IT1050\Practice 2\Practice 2\bin\Debug\Practice 2.exe.config
+C:\Users\gregz\Desktop\IT1050\Practice 2\Practice 2\bin\Debug\Practice 2.exe
+C:\Users\gregz\Desktop\IT1050\Practice 2\Practice 2\bin\Debug\Practice 2.pdb
+C:\Users\gregz\Desktop\IT1050\Practice 2\Practice 2\obj\Debug\Practice 2.exe
+C:\Users\gregz\Desktop\IT1050\Practice 2\Practice 2\obj\Debug\Practice 2.pdb
