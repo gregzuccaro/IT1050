@@ -20,10 +20,13 @@
 
         //methods
 
-        public void SetGrade(int grade)
+        public int SetGrade(Student student, int grade)
         {
             grade = this.Grade;
             System.Console.WriteLine(this.FirstName + " Assigned himself/herself the grade of: " + this.Grade);
+
+            return this.Grade;
+
         }
 
         public void Print()
