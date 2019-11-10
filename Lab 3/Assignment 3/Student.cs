@@ -4,10 +4,10 @@
     {
         //Member variable declarations
 
-        public string FirstName;
-        public string LastName;
-        public int Grade;
-        public Instructor Teacher;
+        public string FirstName = null;
+        public string LastName = null;
+        public int Grade = 0;
+        public Instructor Teacher = null;
 
         //Constructor
         public Student(string firstName, string lastName, int grade, Instructor teacher)

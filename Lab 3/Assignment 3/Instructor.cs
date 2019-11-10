@@ -4,9 +4,9 @@
     {
         //Member variable declarations
 
-        public string FirstName;
-        public string LastName;
-        public string CourseName;
+        private string FirstName = "null";
+        private string LastName = "null";
+        private string CourseName = "null";
 
         //Constructor
         public Instructor(string firstName, string lastName, string courseName)
