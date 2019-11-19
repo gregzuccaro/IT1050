@@ -46,14 +46,26 @@
             if(this.Popcorn > 0 && this.LargeSoda > 0)
             {
                 totalCost -= 2;
+                System.Console.WriteLine("Congrats! You get 2 dollars off your total cost for purchasing a popcorn and large soda.  ");
             }
-
+            System.Console.WriteLine("====== Order Summary ====== ");
+            System.Console.WriteLine();
+            System.Console.WriteLine("Adult Ticket: " + this.Adult);
+            System.Console.WriteLine("Senior Ticket: " + this.Senior);
+            System.Console.WriteLine("Child Ticket: " + this.Child);
+            System.Console.WriteLine("Small Soda: " + this.SmallSoda);
+            System.Console.WriteLine("Large Soda: " + this.LargeSoda);
+            System.Console.WriteLine("Hot Dog: " + this.Hotdog);
+            System.Console.WriteLine("Popcorn: " + this.Popcorn);
+            System.Console.WriteLine("Candy: " + this.Candy);
+            System.Console.WriteLine();
+            System.Console.WriteLine("Order Cost: $" + totalCost);
+            System.Console.WriteLine("===========================");
+            System.Console.WriteLine();
             return totalCost;
         }
 
+        
 
-
-
-     
     }
 }
