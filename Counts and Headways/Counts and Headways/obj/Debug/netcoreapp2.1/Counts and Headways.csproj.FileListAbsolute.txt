@@ -1,0 +1,4 @@
+C:\Users\gregz\Desktop\IT1050\Counts and Headways\Counts and Headways\obj\Debug\netcoreapp2.1\Counts and Headways.csprojAssemblyReference.cache
+C:\Users\gregz\Desktop\IT1050\Counts and Headways\Counts and Headways\obj\Debug\netcoreapp2.1\Counts and Headways.csproj.CoreCompileInputs.cache
+C:\Users\gregz\Desktop\IT1050\Counts and Headways\Counts and Headways\obj\Debug\netcoreapp2.1\Counts and Headways.AssemblyInfoInputs.cache
+C:\Users\gregz\Desktop\IT1050\Counts and Headways\Counts and Headways\obj\Debug\netcoreapp2.1\Counts and Headways.AssemblyInfo.cs
