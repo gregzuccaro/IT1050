@@ -4,25 +4,42 @@
     {
         public string FirstName = "";
         public string LastName = "";
-        private int Adult = 0;
-        private int Child = 0;
-        private int Senior = 0;
+        private int AdultMatinee = 0;
+        private int ChildMatinee = 0;
+        private int SeniorMatinee = 0;
+        private int AdultEvening = 0;
+        private int ChildEvening = 0;
+        private int SeniorEvening = 0;
         private int SmallSoda = 0;
         private int LargeSoda = 0;
         private int Hotdog = 0;
         private int Popcorn = 0;
         private int Candy = 0;
-
+        private bool Matinee;
         
 
         public void GatherDataFromUser()
         {
-
             this.FirstName = Question.AskForString("What is your first name? ");
             this.LastName = Question.AskForString("What is your last name? ");
-            this.Adult = Question.AskForInteger("How many adult tickets? ");
-            this.Child = Question.AskForInteger("How many child tickets? ");
-            this.Senior = Question.AskForInteger("How many senior tickets? ");
+            this.Matinee = Question.AskForBool("Matinee Time? T or F")
+                
+                
+                if(this.Matinee = "True")
+                     {
+                this.AdultMatinee = Question.AskForInteger("How many adult matinee tickets? ");
+                this.ChildMatinee = Question.AskForInteger("How many child matinee tickets? ");
+                this.SeniorMatinee = Question.AskForInteger("How many senior matinee tickets? ");
+                     }
+            
+               else {
+                this.AdultEvening = Question.AskForInteger("How many adult evening tickets? ");
+                this.ChildEvening = Question.AskForInteger("How many child evening tickets? ");
+                this.SeniorEvening = Question.AskForInteger("How many senior evening tickets? ");
+                 }
+
+
+
             this.SmallSoda = Question.AskForInteger("How many orders of small sodas ? ");
             this.LargeSoda = Question.AskForInteger("How many orders of large sodas? ");
             this.Hotdog = Question.AskForInteger("How many orders hot dogs? ");
@@ -35,9 +52,16 @@
         {
             double totalCost = 0;
 
-            totalCost += this.Adult * Cost.AdultTicketPrice;
-            totalCost += this.Child * Cost.ChildTicketPrice;
-            totalCost += this.Senior * Cost.SeniorTicketPrice;
+            totalCost += this.AdultMatinee * Cost.AdultTicketPriceMatinee;
+            totalCost += this.ChildMatinee * Cost.ChildTicketPriceMatinee;
+            totalCost += this.SeniorMatinee * Cost.SeniorTicketPriceMatinee;
+
+            totalCost += this.AdultEvening * Cost.AdultTicketPriceEvening;
+            totalCost += this.ChildEvening * Cost.ChildTicketPriceEvening;
+            totalCost += this.SeniorEvening * Cost.SeniorTicketPriceEvening;
+
+
+
             totalCost += this.SmallSoda * Cost.SmallSodaPrice;
             totalCost += this.LargeSoda * Cost.LargeSodaPrice;
             totalCost += this.Hotdog * Cost.HotDogPrice;
@@ -45,14 +69,23 @@
             totalCost += this.Candy * Cost.CandyPrice;
             if(this.Popcorn > 0 && this.LargeSoda > 0)
             {
-                totalCost -= 2;
-                System.Console.WriteLine("Congrats! You get 2 dollars off your total cost for purchasing a popcorn and large soda.  ");
+                Cost.AdultTicketPriceEvening - 2;
+                System.Console.WriteLine("Congrats! You get 2 dollars off your movie ticket for purchasing a popcorn and large soda.  ");
+            }
+            if(this.Candy >= 3)
+            {
+                this.Candy +=
+                System.Console.WriteLine("Congrats, you bought 3 candies and you now get 1 for free!  Enjoy! ");
             }
             System.Console.WriteLine("====== Order Summary ====== ");
             System.Console.WriteLine();
-            System.Console.WriteLine("Adult Ticket: " + this.Adult);
-            System.Console.WriteLine("Senior Ticket: " + this.Senior);
-            System.Console.WriteLine("Child Ticket: " + this.Child);
+            System.Console.WriteLine("Adult Ticket: " + this.AdultMatinee);
+            System.Console.WriteLine("Senior Ticket: " + this.SeniorMatinee);
+            System.Console.WriteLine("Child Ticket: " + this.ChildMatinee);
+            System.Console.WriteLine("Adult Ticket: " + this.AdultEvening);
+            System.Console.WriteLine("Senior Ticket: " + this.SeniorEvening);
+            System.Console.WriteLine("Child Ticket: " + this.ChildEvening);
+
             System.Console.WriteLine("Small Soda: " + this.SmallSoda);
             System.Console.WriteLine("Large Soda: " + this.LargeSoda);
             System.Console.WriteLine("Hot Dog: " + this.Hotdog);
