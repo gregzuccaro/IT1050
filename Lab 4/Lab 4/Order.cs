@@ -22,7 +22,7 @@
         {
             this.FirstName = Question.AskForString("What is your first name? ");
             this.LastName = Question.AskForString("What is your last name? ");
-            this.Matinee = Question.AskForBool("Matinee Time? T or F")
+            this.Matinee = Question.AskForBool("Matinee Time? T or F");
                 
                 
                 if(this.Matinee = "True")
