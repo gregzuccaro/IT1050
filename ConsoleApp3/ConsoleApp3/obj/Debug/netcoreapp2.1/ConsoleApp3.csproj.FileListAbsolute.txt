@@ -9,3 +9,14 @@ C:\Users\gregz\Desktop\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleAp
 C:\Users\gregz\Desktop\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.pdb
 C:\Users\gregz\Desktop\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.dll
 C:\Users\gregz\Desktop\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.pdb
+C:\Users\gregz\Desktop\IT1050\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.deps.json
+C:\Users\gregz\Desktop\IT1050\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.runtimeconfig.json
+C:\Users\gregz\Desktop\IT1050\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.runtimeconfig.dev.json
+C:\Users\gregz\Desktop\IT1050\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.dll
+C:\Users\gregz\Desktop\IT1050\ConsoleApp3\ConsoleApp3\bin\Debug\netcoreapp2.1\ConsoleApp3.pdb
+C:\Users\gregz\Desktop\IT1050\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\gregz\Desktop\IT1050\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\gregz\Desktop\IT1050\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\gregz\Desktop\IT1050\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.AssemblyInfo.cs
+C:\Users\gregz\Desktop\IT1050\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.dll
+C:\Users\gregz\Desktop\IT1050\ConsoleApp3\ConsoleApp3\obj\Debug\netcoreapp2.1\ConsoleApp3.pdb

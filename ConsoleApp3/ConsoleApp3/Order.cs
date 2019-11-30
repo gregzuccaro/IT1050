@@ -85,7 +85,7 @@
 
             }
 
-            if(this.Candy == 3)
+            if(this.Candy >= 3)
             {
                 System.Console.WriteLine("Congrats, you have qualified for a 4th candy for free! ");
                 this.Candy += 1;

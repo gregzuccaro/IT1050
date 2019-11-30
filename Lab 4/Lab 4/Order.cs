@@ -15,29 +15,31 @@
         private int Hotdog = 0;
         private int Popcorn = 0;
         private int Candy = 0;
-        private bool Matinee;
-        
+        private string Matinee;
+
 
         public void GatherDataFromUser()
         {
             this.FirstName = Question.AskForString("What is your first name? ");
             this.LastName = Question.AskForString("What is your last name? ");
-            this.Matinee = Question.AskForBool("Matinee Time? T or F");
-                
-                
-                if(this.Matinee = "True")
-                     {
+            this.Matinee = Question.AskForString("Matinee Time? Y or N");
+
+
+            if (this.Matinee == "Y")
+            {
                 this.AdultMatinee = Question.AskForInteger("How many adult matinee tickets? ");
                 this.ChildMatinee = Question.AskForInteger("How many child matinee tickets? ");
                 this.SeniorMatinee = Question.AskForInteger("How many senior matinee tickets? ");
-                     }
-            
-               else {
-                this.AdultEvening = Question.AskForInteger("How many adult evening tickets? ");
-                this.ChildEvening = Question.AskForInteger("How many child evening tickets? ");
-                this.SeniorEvening = Question.AskForInteger("How many senior evening tickets? ");
-                 }
+            }
 
+            if else (this.Matinee = "N")
+               { this.AdultEvening = Question.AskForInteger("How many adult evening tickets? ");
+            this.ChildEvening = Question.AskForInteger("How many child evening tickets? ");
+            this.SeniorEvening = Question.AskForInteger("How many senior evening tickets? ");
+                     }
+            else {
+                 System.Console.WriteLine("I do not understand.");
+                 }
 
 
             this.SmallSoda = Question.AskForInteger("How many orders of small sodas ? ");

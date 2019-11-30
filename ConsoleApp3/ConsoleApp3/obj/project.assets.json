@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gregz\\Desktop\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+      "projectUniqueName": "C:\\Users\\gregz\\Desktop\\IT1050\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
       "projectName": "ConsoleApp3",
-      "projectPath": "C:\\Users\\gregz\\Desktop\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+      "projectPath": "C:\\Users\\gregz\\Desktop\\IT1050\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
       "packagesPath": "C:\\Users\\gregz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gregz\\Desktop\\ConsoleApp3\\ConsoleApp3\\obj\\",
+      "outputPath": "C:\\Users\\gregz\\Desktop\\IT1050\\ConsoleApp3\\ConsoleApp3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
