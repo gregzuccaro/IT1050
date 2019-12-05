@@ -1,0 +1,11 @@
+C:\Users\gregz\Desktop\IT1050\FinalProjectProfSuccessStrategy\FinalProjectProfSuccessStrategy\obj\Debug\netcoreapp2.1\FinalProjectProfSuccessStrategy.csprojAssemblyReference.cache
+C:\Users\gregz\Desktop\IT1050\FinalProjectProfSuccessStrategy\FinalProjectProfSuccessStrategy\obj\Debug\netcoreapp2.1\FinalProjectProfSuccessStrategy.csproj.CoreCompileInputs.cache
+C:\Users\gregz\Desktop\IT1050\FinalProjectProfSuccessStrategy\FinalProjectProfSuccessStrategy\obj\Debug\netcoreapp2.1\FinalProjectProfSuccessStrategy.AssemblyInfoInputs.cache
+C:\Users\gregz\Desktop\IT1050\FinalProjectProfSuccessStrategy\FinalProjectProfSuccessStrategy\obj\Debug\netcoreapp2.1\FinalProjectProfSuccessStrategy.AssemblyInfo.cs
+C:\Users\gregz\Desktop\IT1050\FinalProjectProfSuccessStrategy\FinalProjectProfSuccessStrategy\bin\Debug\netcoreapp2.1\FinalProjectProfSuccessStrategy.deps.json
+C:\Users\gregz\Desktop\IT1050\FinalProjectProfSuccessStrategy\FinalProjectProfSuccessStrategy\bin\Debug\netcoreapp2.1\FinalProjectProfSuccessStrategy.runtimeconfig.json
+C:\Users\gregz\Desktop\IT1050\FinalProjectProfSuccessStrategy\FinalProjectProfSuccessStrategy\bin\Debug\netcoreapp2.1\FinalProjectProfSuccessStrategy.runtimeconfig.dev.json
+C:\Users\gregz\Desktop\IT1050\FinalProjectProfSuccessStrategy\FinalProjectProfSuccessStrategy\bin\Debug\netcoreapp2.1\FinalProjectProfSuccessStrategy.dll
+C:\Users\gregz\Desktop\IT1050\FinalProjectProfSuccessStrategy\FinalProjectProfSuccessStrategy\bin\Debug\netcoreapp2.1\FinalProjectProfSuccessStrategy.pdb
+C:\Users\gregz\Desktop\IT1050\FinalProjectProfSuccessStrategy\FinalProjectProfSuccessStrategy\obj\Debug\netcoreapp2.1\FinalProjectProfSuccessStrategy.dll
+C:\Users\gregz\Desktop\IT1050\FinalProjectProfSuccessStrategy\FinalProjectProfSuccessStrategy\obj\Debug\netcoreapp2.1\FinalProjectProfSuccessStrategy.pdb

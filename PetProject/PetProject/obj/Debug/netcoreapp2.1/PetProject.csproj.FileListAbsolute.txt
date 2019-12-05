@@ -1,0 +1,4 @@
+C:\Users\gregz\Desktop\IT1050\PetProject\PetProject\obj\Debug\netcoreapp2.1\PetProject.csprojAssemblyReference.cache
+C:\Users\gregz\Desktop\IT1050\PetProject\PetProject\obj\Debug\netcoreapp2.1\PetProject.csproj.CoreCompileInputs.cache
+C:\Users\gregz\Desktop\IT1050\PetProject\PetProject\obj\Debug\netcoreapp2.1\PetProject.AssemblyInfoInputs.cache
+C:\Users\gregz\Desktop\IT1050\PetProject\PetProject\obj\Debug\netcoreapp2.1\PetProject.AssemblyInfo.cs
